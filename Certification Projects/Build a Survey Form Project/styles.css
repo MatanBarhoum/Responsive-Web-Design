@@ -74,6 +74,10 @@ input[type="checkbox"]
   width: unset;
 }
 
+input[type="file"] {
+  margin-left: 25px;
+}
+
 textarea {
   margin-left: 25px;
   font-size: 21px;
