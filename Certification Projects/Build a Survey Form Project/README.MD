@@ -1,5 +1,5 @@
 # First Project - Build A Survey Form Project
-<img src="Capture.PNG">
+<img src="Capture1.PNG">
 
 <h1>About the project</h1>
 This is my first steps in learning full stack development at FreeCodeCamp Academy. 
