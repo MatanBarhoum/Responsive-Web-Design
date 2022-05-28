@@ -1,5 +1,5 @@
 # Learn Basic CSS by Building Cafe Menu
-<img src="CAPTURE.png">
+<img src="Capture.PNG">
 <br>
 <br>
 <h1> Class Notes </h1>
