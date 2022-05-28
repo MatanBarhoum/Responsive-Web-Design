@@ -42,7 +42,8 @@ form {
   max-height: 700px;
 	margin: 0 auto;
   padding-bottom: 2em;
-  background: rgba(27, 27, 50, 0.8)
+  background: rgba(27, 27, 50, 0.8);
+  border-radius: 8px;
 }
 
 
