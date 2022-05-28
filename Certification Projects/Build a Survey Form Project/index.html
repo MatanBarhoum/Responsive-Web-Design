@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale= 1.0">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title> Matan Project Form </title>
+  </head>
+  <body>
+    <h1 id="title">Matan Project Form</h1>
+    <h2>My Project</h2>
+    <form id="survey-form" action="submit">
+      <div class="UserDetails">
+      <div class="name">
+      <label id="name-label">Enter Your Full Name: <input type="text" id="name" name="fullname" placeholder="lorem ipsom" required/></label>
+      </div>
+      <label id="email-label">Enter Your Email: <input type="email" id="email" name="email" placeholder="contoso@microsoft.com" required/></label>
+      <label id="number-label">Age: (optional) <input type="number" id="number" min="18" max="120" placeholder="13"/></label>
+
+<label>Which option best describes your current role?
+<select id="dropdown">
+  <option>(Select one)</option>
+  <option>System Administrator</option>
+  <option>Full Stack Developer</option>
+</select>
+</label>
+      </div>
+  <div class="gender">
+    <label>What is your gender?</label>
+<label><input type="radio" name="gender" value="male" id="gender" required/> Male</label>
+<label><input type="radio" name="gender" value="female" id="gender" required/> Female</label>
+</div>
+
+  <div class="icecream">
+    <label>Which ice cream do you like?</label>
+<label><input type="checkbox" name="ice-cream" value="chocolate" id="ice-cream" required/> Chocolate</label>
+<label><input type="checkbox" name="ice-cream" value="vanilla" id="ice-cream" required/> Vanilla</label>
+</div>
+
+<div class="bio">
+<label id="bio">Tell about yourself</label>
+<textarea rows="3" cols="30" required></textarea>
+<label>Resume:</label><input type="file" required/>
+</div>
+
+            <input type="submit" id="submit" />
+    </form>
+  </body>
+</html>
