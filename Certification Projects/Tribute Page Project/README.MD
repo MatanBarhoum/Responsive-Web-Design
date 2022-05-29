@@ -1,6 +1,6 @@
 # Tribute Page Project
 
-<img src="Capture.JPG">
+<img src="Capture.PNG">
 
 <h1>Requirements</h1>
 
