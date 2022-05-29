@@ -1,0 +1,64 @@
+body {
+  font-family: Arial;
+}
+#barcelona {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 120px;
+  width: 100%;
+}
+#title {
+  height: 120px;
+  text-align: center;
+  background: linear-gradient(to bottom, #A40000 0%, #2A006A 50%, #2A006A 100%);
+  color: white;
+}
+
+#img-div {
+  margin-top: 180px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+  width: 500px;
+}
+#img-div img {
+  display: block;
+  max-width: 100%;
+  width: 500px;
+  height: auto;
+  object-fit: cover;
+}
+
+#tribute {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 180px;
+  width: 100%;
+  margin-top: 530px;
+  background-color: rgba(255, 0,0, 0.2);
+  font-size: 16px;
+}
+#tribute-info ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#tribute-info li {
+  margin-top: 8px;
+  font-family: Tahoma;
+  font-size: 24px;
+}
+
+#tribute-link-div {
+  text-align: center;
+  font-size: 24px;
+  margin-top: 250px;
+
+}
+#messiTitle {
+  padding-top: 10px;
+}
