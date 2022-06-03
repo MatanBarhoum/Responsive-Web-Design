@@ -7,4 +7,16 @@ In this section I am learning CSS and HTML Responsive Design, and after this cer
 
 <B>Goals:</B>
 <br>
-Complete the 1200 Full-Stack Development Curriculum
+Complete the 1800 Full-Stack Development Curriculum
+<br>
+Responsive Web Design (300 hours)
+<br>
+JavaScript Algorithms and Data Structures (300 hours)
+<Br>
+Front End Development Libraries (300 hours)
+  <br>
+Data Visualization (300 hours)
+  <br>
+Back End Development and APIs (300 hours)
+  <br>
+Legacy Information Security and Quality Assurance (300 hours)
