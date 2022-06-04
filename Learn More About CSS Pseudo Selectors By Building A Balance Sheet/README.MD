@@ -49,3 +49,10 @@ For example, span[class~=”sr-only”] will select any span element whose class
 •	The :nth-of-type() pseudo-selector is used to target specific elemnts baed of their order among sibligns of the same type. (tr.total td:nth-of-type(3))
 <br>
 •	Vertical-align and text-align
+
+<h1>What i learnt</h1>
+In this course, I built a balance sheet using pseudo selectors.
+<br>
+I learnt how to change the style of an element when I hover over it with the mouse, and trigger other events on my webpage.
+
+
