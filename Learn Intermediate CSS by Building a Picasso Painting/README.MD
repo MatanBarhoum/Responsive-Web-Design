@@ -3,7 +3,7 @@
 <img src="Capture.PNG">
 
 <h1>Class Notes</h1>
-Learn intermediate CSS by Building a Picasso Painting 
+Learn intermediate CSS by Building a Picasso Painting <br>
 1.	Absolute position – the position property is used to set the block relative. Then, we can adjust him with top, bottom, left, right.
 This way we can set a div block to be full-screen-width.<br>
 2.	Z-inedx is like layers. Elements with higher z-index will be on top of elements with lower z-index.<Br>
