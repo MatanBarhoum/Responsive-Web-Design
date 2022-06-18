@@ -1,3 +1,3 @@
 # Certification Project - Build Product Landing Page
 
-<img src="Example.gif">
+<img src="Exmaple.gif">
